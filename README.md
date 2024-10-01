@@ -1,4 +1,4 @@
-# OlenaMyroshnykva
+# OlenaMyroshnykova
 Hi my name is Olena Myroshnykova
 
 Current Stack

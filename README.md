@@ -9,6 +9,7 @@
       <p>🌐 Future: I aspire to grow in the industry by applying my skills <br> in automation and AWS-based solutions, with the goal <br> of participating in innovative projects in Spain and beyond.</p>
       <p>🎮 Hobbies: I am passionate about video games, studying different <br> languages, and I also love cats 🐱 and mice 🐭.</p>
       <p>🛠️ Current Stack: I currently work with technologies like AWS ☁️, <br> automation tools ⚙️, HTML 📝, CSS 🎨, Git 🔧, and GitHub 🐙.</p>
+      <p></p>
     </td>
   <td>
     <a

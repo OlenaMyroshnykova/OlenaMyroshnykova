@@ -31,8 +31,8 @@ Hola! Me llamo Olena
 
 ## 📫 Contact
 
-[![GitHub](https://raw.githubusercontent.com/OlenaMyroshnykova/OlenaMyroshnykova/github.png)](https://github.com/OlenaMyroshnykova)
-[![LinkedIn](https://raw.githubusercontent.com/OlenaMyroshnykova/OlenaMyroshnykova/linkedin.png)](https://www.linkedin.com/in/OlenaMyroshnykova)
+[![GitHub](https://raw.githubusercontent.com/OlenaMyroshnykova/OlenaMyroshnykova/main/github.png)](https://github.com/OlenaMyroshnykova)
+[![LinkedIn](https://raw.githubusercontent.com/OlenaMyroshnykova/OlenaMyroshnykova/main/linkedin.png)](https://www.linkedin.com/in/OlenaMyroshnykova)
 
 
 <a

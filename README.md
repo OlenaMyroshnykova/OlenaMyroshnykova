@@ -1,24 +1,18 @@
 # Hi! My name Olena Myroshnykova.
 
 
-<h2>About Me</h2>
+<h1>About Me</h1>
 
-<h3>🎓 Past</h3>
-<p>I am a former 1C programmer from Ukraine who decided to change careers and develop in the IT sector in Spain.</p>
+<p>🎓 Past: I am a former 1C programmer from Ukraine who decided to change careers and develop in the IT sector in Spain.</p>
+<p>🚀 New Goal: After discovering the Factoría F5 project through Coders Chat Alicante, I started learning AWS and cloud technologies to find a job in this field.</p>
 
-<h3>🚀 New Goal</h3>
-<p>After discovering the Factoría F5 project through Coders Chat Alicante, I started learning AWS and cloud technologies to find a job in this field.</p>
+<p>🌐 Future: I aspire to grow in the industry by applying my skills in automation and AWS-based solutions, with the goal of participating in innovative projects in Spain and beyond.</p>
 
-<h3>🌐 Future</h3>
-<p>I aspire to grow in the industry by applying my skills in automation and AWS-based solutions, with the goal of participating in innovative projects in Spain and beyond.</p>
+<p>🎮 Hobbies: I am passionate about video games, studying different languages, and I also love cats 🐱 and mice 🐭.</p>
 
-<h3>🎮 Hobbies</h3>
-<p>I am passionate about video games, studying different languages, and I also love cats 🐱 and mice 🐭.</p>
+<p>🛠️ Current Stack: I currently work with technologies like AWS ☁️, automation tools ⚙️, HTML 📝, and CSS 🎨.</p>
 
-<h3>🛠️ Current Stack</h3>
-<p>I currently work with technologies like AWS ☁️, automation tools ⚙️, HTML 📝, and CSS 🎨.</p>
-
-<h3>📫 Contacts</h3>
+<p>📫 Contacts</p>
 <a href="https://github.com/OlenaMyroshnykova">
   <img src="https://raw.githubusercontent.com/OlenaMyroshnykova/OlenaMyroshnykova/main/github.png" alt="GitHub" width="30px">
 </a>

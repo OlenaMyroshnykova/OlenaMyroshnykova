@@ -1,6 +1,5 @@
-# Olena Myroshnykova
-Hi my name is Olena!
-Hola! Me llamo Olena
+# Hi! My name Olena Myroshnykova.
+
 <div class="about-us">
   <h2>About Me</h2>
   <div class="section">
@@ -27,16 +26,18 @@ Hola! Me llamo Olena
     <h3>🛠️ Current Stack</h3>
     <p>I currently work with technologies like AWS ☁️, Docker 🐳, Kubernetes ☸️, automation tools ⚙️, HTML 📝, and CSS 🎨.</p>
   </div>
+  <div class="section">
+    <h3>📫 Contacts</h3>
+    <a href="https://github.com/OlenaMyroshnykova">
+      <img src="https://raw.githubusercontent.com/OlenaMyroshnykova/OlenaMyroshnykova/main/github.png" alt="GitHub" width="30px">
+    </a>
+    <a href="https://www.linkedin.com/in/OlenaMyroshnykova">
+      <img src="https://raw.githubusercontent.com/OlenaMyroshnykova/OlenaMyroshnykova/main/linkedin.png" alt="LinkedIn" width="30px">
+    </a>
+  </div>
 </div>
 
-## 📫 Contacts
-
-<a href="https://github.com/OlenaMyroshnykova">
-  <img src="https://raw.githubusercontent.com/OlenaMyroshnykova/OlenaMyroshnykova/main/github.png" alt="GitHub" width="30px">
-</a>
-<a href="https://www.linkedin.com/in/OlenaMyroshnykova">
-  <img src="https://raw.githubusercontent.com/OlenaMyroshnykova/OlenaMyroshnykova/main/linkedin.png" alt="LinkedIn" width="30px">
-</a>
+## 
 
 <a
   href="https://www.credly.com/badges/7bb326e7-14fe-463e-adb1-c43a2a477072/public_url"

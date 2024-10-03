@@ -28,7 +28,26 @@ Hola! Me llamo Olena
   <h3>🛠️ Current Stack</h3>
   <p>Actualmente trabajo con tecnologías como AWS ☁️, Docker 🐳, Kubernetes ☸️, herramientas de automatización ⚙️, HTML 📝, y CSS 🎨.</p>
 </div>
-
+<ul class="member-contacts">
+  <li class="member-link">
+    <a
+      href="https://www.linkedin.com/in/OlenaMyroshnykova"
+      target="_blank"
+      ><img
+        class="member-icon"
+        src="images/linkedin.png"
+        alt="linkedin icon"
+    /></a>
+  </li>
+  <li class="member-link">
+    <a href="https://github.com/OlenaMyroshnykova" target="_blank"
+      ><img
+        class="member-icon"
+        src="images/github.png"
+        alt="github icon"
+    /></a>
+  </li>
+</ul>
 <a
   href="https://www.credly.com/badges/7bb326e7-14fe-463e-adb1-c43a2a477072/public_url"
   target="_blank">

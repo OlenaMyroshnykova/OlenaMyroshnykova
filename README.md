@@ -1,5 +1,5 @@
 # Olena Myroshnykova
-Hi my name is Olena Myroshnykova
+Hi my name is Olena!
 Hola! Me llamo Olena
 <div class="about-us">
   <h2>Sobre mí</h2>

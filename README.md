@@ -29,26 +29,12 @@ Hola! Me llamo Olena
   </div>
 </div>
 
-<ul class="member-contacts">
-  <li class="member-link">
-    <a
-      href="https://www.linkedin.com/in/OlenaMyroshnykova"
-      target="_blank"
-      ><img
-        class="member-icon"
-        src="linkedin.png"
-        alt="linkedin icon"
-    /></a>
-  </li>
-  <li class="member-link">
-    <a href="https://github.com/OlenaMyroshnykova" target="_blank"
-      ><img
-        class="member-icon"
-        src="github.png"
-        alt="github icon"
-    /></a>
-  </li>
-</ul>
+## 📫 Contact
+
+[![GitHub](https://raw.githubusercontent.com/OlenaMyroshnykova/OlenaMyroshnykova/github.png)](https://github.com/OlenaMyroshnykova)
+[![LinkedIn](https://raw.githubusercontent.com/OlenaMyroshnykova/OlenaMyroshnykova/linkedin.png)](https://www.linkedin.com/in/OlenaMyroshnykova)
+
+
 <a
   href="https://www.credly.com/badges/7bb326e7-14fe-463e-adb1-c43a2a477072/public_url"
   target="_blank">

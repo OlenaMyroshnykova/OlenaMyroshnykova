@@ -5,12 +5,12 @@
     <td>
       <h1>About Me</h1>
       <p>🎓 Past: I am a former 1C programmer from Ukraine who decided <br> to change careers and develop in the IT sector in Spain.</p>
-      <p>🚀 New Goal: After discovering the Factoría F5 project through <br> Coders Chat Alicante, I started learning AWS and cloud technologies to find a job in this field.</p>
-      <p>🌐 Future: I aspire to grow in the industry by applying my skills <br> in automation and AWS-based solutions, with the goal of participating in innovative projects in Spain and beyond.</p>
+      <p>🚀 New Goal: After discovering the Factoría F5 project through <br> Coders Chat Alicante, I started learning AWS and cloud <br>technologies to find a job in this field.</p>
+      <p>🌐 Future: I aspire to grow in the industry by applying my skills <br> in automation and AWS-based solutions, with the goal <br> of participating in innovative projects in Spain and beyond.</p>
       <p>🎮 Hobbies: I am passionate about video games, studying different <br> languages, and I also love cats 🐱 and mice 🐭.</p>
-      <p>🛠️ Current Stack: I currently work with technologies like AWS ☁️, <br> automation tools ⚙️, HTML 📝, and CSS 🎨.</p>
+      <p>🛠️ Current Stack: I currently work with technologies like AWS ☁️, <br> automation tools ⚙️, HTML 📝, CSS 🎨, Git 🔧, and GitHub 🐙.</p>
     </td>
-  <td style="width: 150px;">
+  <td>
     <a
     href="https://www.credly.com/badges/7bb326e7-14fe-463e-adb1-c43a2a477072/public_url"
     target="_blank">

@@ -35,7 +35,7 @@ Hola! Me llamo Olena
       target="_blank"
       ><img
         class="member-icon"
-        src="images/linkedin.png"
+        src="linkedin.png"
         alt="linkedin icon"
     /></a>
   </li>
@@ -43,7 +43,7 @@ Hola! Me llamo Olena
     <a href="https://github.com/OlenaMyroshnykova" target="_blank"
       ><img
         class="member-icon"
-        src="images/github.png"
+        src="github.png"
         alt="github icon"
     /></a>
   </li>

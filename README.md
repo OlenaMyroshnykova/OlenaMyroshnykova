@@ -23,10 +23,7 @@
   </td>
 <table>
   
-<p>📫 Contacts:
-  <a href="https://github.com/OlenaMyroshnykova">
-    <img src="https://raw.githubusercontent.com/OlenaMyroshnykova/OlenaMyroshnykova/main/github.png" alt="GitHub" width="30px">
-  </a>
+<p>------------------📫 Contacts:
   <a href="https://www.linkedin.com/in/OlenaMyroshnykova">
     <img src="https://raw.githubusercontent.com/OlenaMyroshnykova/OlenaMyroshnykova/main/linkedin.png" alt="LinkedIn" width="30px">
   </a>

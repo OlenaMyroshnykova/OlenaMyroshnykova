@@ -2,32 +2,33 @@
 Hi my name is Olena!
 Hola! Me llamo Olena
 <div class="about-us">
-  <h2>Sobre mí</h2>
+  <h2>About Me</h2>
   <div class="section">
-    <h3>🎓 Pasado</h3>
-    <p>Soy una ex programadora de 1C de Ucrania que decidió cambiar de carrera y desarrollarse en el sector IT en España.</p>
+    <h3>🎓 Past</h3>
+    <p>I am a former 1C programmer from Ukraine who decided to change careers and develop in the IT sector in Spain.</p>
   </div>
   
   <div class="section">
-    <h3>🚀 Nuevo objetivo</h3>
-    <p>Tras descubrir el proyecto Factoría F5 a través del Coders Chat Alicante, comencé a formarme en AWS y tecnologías en la nube para encontrar trabajo en este campo.</p>
+    <h3>🚀 New Goal</h3>
+    <p>After discovering the Factoría F5 project through Coders Chat Alicante, I started learning AWS and cloud technologies to find a job in this field.</p>
   </div>
 
   <div class="section">
-    <h3>🌐 Futuro</h3>
-    <p>Aspiro a crecer en la industria, aplicando mis habilidades en automatización y soluciones basadas en AWS, con el objetivo de participar en proyectos innovadores en España y más allá.</p>
+    <h3>🌐 Future</h3>
+    <p>I aspire to grow in the industry by applying my skills in automation and AWS-based solutions, with the goal of participating in innovative projects in Spain and beyond.</p>
   </div>
 
   <div class="section">
     <h3>🎮 Hobbies</h3>
-    <p>Me apasionan los videojuegos y los lenguajes de programación, y también me encantan los gatos 🐱 y los ratones 🐭.</p>
+    <p>I am passionate about video games, studying different languages, and I also love cats 🐱 and mice 🐭.</p>
+  </div>
+  
+  <div class="section">
+    <h3>🛠️ Current Stack</h3>
+    <p>I currently work with technologies like AWS ☁️, Docker 🐳, Kubernetes ☸️, automation tools ⚙️, HTML 📝, and CSS 🎨.</p>
   </div>
 </div>
 
-<div class="section">
-  <h3>🛠️ Current Stack</h3>
-  <p>Actualmente trabajo con tecnologías como AWS ☁️, Docker 🐳, Kubernetes ☸️, herramientas de automatización ⚙️, HTML 📝, y CSS 🎨.</p>
-</div>
 <ul class="member-contacts">
   <li class="member-link">
     <a
